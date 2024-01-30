@@ -1,0 +1,2 @@
+# Exploring London's Travel Network
+###### In this project, I worked with an *Amazon Redshift* database containing data on journeys and transport types in London between 2010 and 2022. I wrote SQL queries to discover the most popular transport methods, examined periods of high activity for the Emirates Airline cable car, which connects London's Royal Docks (where the Mayor's office is located) to Greenwich Peninsula (home of the O2 arena), and identified rare instances when the Underground (referred to as "the tube" by locals) experienced lower levels of activity.
